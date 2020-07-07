@@ -1,0 +1,36 @@
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Modelo\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Modelo\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Modelo\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Modelo\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Modelo\obj\Debug\Modelo.pdb

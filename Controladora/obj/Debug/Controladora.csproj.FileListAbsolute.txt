@@ -1,0 +1,62 @@
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\Controladora\obj\Debug\Controladora.pdb

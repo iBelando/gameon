@@ -1,0 +1,337 @@
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\Usuario\Documents\LUG\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Bracket_Equipos_Ligas.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Bracket_Equipos_Torneos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Bracket_Equipos_Ligas.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Bracket_Equipos_Torneos.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\Biblioteca\Rejunte\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingEquipos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingUsuarios.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeError.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Torneos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Ligas.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarGrupos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarJuegos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Partidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarGrupos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarJuegos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Ligas.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeError.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Partidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Torneos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V1.5\SistemaPlataforma_V1.5\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarGrupos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarJuegos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Ligas.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeError.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Partidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Torneos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.0\SistemaPlataforma V2.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarGrupos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarJuegos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Ligas.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeError.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Partidos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingEquipos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingUsuarios.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Torneos.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\Usuario\Desktop\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarGrupos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarJuegos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Ligas.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeError.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Partidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Torneos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V2.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\SistemaPlataforma V3.0\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\Usuario\Desktop\SistemaPlataforma V3.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\Usuario\Desktop\SistemaPlataforma V3.0\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe.config
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.dll
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Controladora.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\bin\Debug\Modelo.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csprojResolveAssemblyReference.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.AuditoríaPartidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Equipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarArbitros.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarCompetencias.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarGrupos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarInscripciones.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarJuegos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarPartidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarRoles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.GestionarUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Inicio.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Ligas.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.LigasDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Login.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeExito.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.PanelDeAdmin.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Partidos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil_Equipo.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Perfil.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Properties.Resources.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingEquipos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.RankingUsuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ReestablecerContraseña.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.SeleccionarEquipo.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Torneos.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.TorneosDisponibles.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.Usuarios.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.ValidarCuenta.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.VerPerfilUsuario.resources
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.GenerateResource.Cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.exe
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.pdb
+C:\Users\ignac\Desktop\SistemaPlataforma\SistemaPlataforma V3.5\SistemaPlataforma V3.5\SistemaPlataforma\SistemaPlataforma\obj\Debug\SistemaPlataforma.MensajeDeError.resources
